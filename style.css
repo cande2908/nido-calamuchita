@@ -34,3 +34,20 @@
 	display: inline-block;
 	width: 60px;
 }
+
+
+.card-body{
+    background-color:  #D5953D;
+    margin-left: 40px; 
+}
+ .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: #880e4f;
+            display: flex;
+            align-items: center;
+        }
+        .logo img {
+            height: 36px;
+            margin-right: 10px;
+        }
