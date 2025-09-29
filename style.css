@@ -1,7 +1,9 @@
 .encabezadoprincipal{
     background-color: chocolate;
 }
-
+.card{
+    position: sticky;
+}
 .logo{
     width: 20px;
 }
@@ -51,3 +53,5 @@
             height: 36px;
             margin-right: 10px;
         }
+
+.position: sticky;
