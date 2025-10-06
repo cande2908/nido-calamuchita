@@ -23,6 +23,7 @@
 .card-body{
     background-color:  #D5953D;
     margin-left: 40px; 
+    position: sticky;
 }
 .card-img-top{
    margin-left: 40px; 
@@ -53,5 +54,3 @@
             height: 36px;
             margin-right: 10px;
         }
-
-.position: sticky;
